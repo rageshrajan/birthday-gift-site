@@ -62,7 +62,6 @@ h1, h2, h4, p {
 
 #gift-img-happy:hover {
     background-image: url("images/minions.gif");
-    -webkit-transition: all 0.3s ease-in-out;
 }
 
 #gift-img-react:hover {
